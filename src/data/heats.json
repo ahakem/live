@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "DNF-1",
+    "discipline": "DNF",
+    "heat_number": 1,
+    "official_top": "12:55",
+    "warm_up": "12:10",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-051",
+        "name": "Linda Mcnamara-Boonstra",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "35m",
+        "announced_performance": "1m",
+        "pronunciation": "Linda — rhymes with Pinda in Dutch",
+        "notes": [
+          "Linda is Dutch but lives in Ireland and mostly trains alone.",
+          "She calls herself a serial hobbyist — she has tried most arts and crafts.",
+          "She even brought her own coach from Ireland — Eszter, who is also competing here today.",
+          "Her dad is watching, and her husband came along so she does not have to drive home tired after diving.",
+          "That is love.",
+          "First competition — and if anyone in the west of Ireland wants a dive buddy, please reach out!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-052",
+        "name": "Tonny Siemons",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "50m",
+        "announced_performance": "50m",
+        "pronunciation": "Tonny — just like it sounds",
+        "notes": [
+          "Tonny is an IT entrepreneur from Amsterdam, a certified scuba instructor, and this year he added freediving to the list.",
+          "He loves water, he loves endurance sports — running, cycling, and now this.",
+          "First competition today.",
+          "The next chapter starts right here."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "While our athletes take their final breaths — give them a big hand."
+  },
+  {
+    "id": "DNF-2",
+    "discipline": "DNF",
+    "heat_number": 2,
+    "official_top": "12:59",
+    "warm_up": "12:14",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-021",
+        "name": "Michele Chincoli",
+        "gender": "M",
+        "country_code": "ITA",
+        "country": "Italy",
+        "personal_best": "50m",
+        "announced_performance": "30m",
+        "pronunciation": "Mi-cheh-leh",
+        "notes": [
+          "Back in Eindhoven for the second year running — Michele clearly likes what this pool brings out in him.",
+          "A dynamic fins best of 136 metres built steadily across six competitions, with depth diving in the mix too.",
+          "Good energy from this one."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-053",
+        "name": "Aleksandr Vinokurov",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "50m",
+        "announced_performance": "50m",
+        "pronunciation": "vie-na-kOE-rof (stress on kOE)",
+        "notes": [
+          "He was here last year for his first competition and posted a bi-fins best of 79 metres.",
+          "Lives in Almere, writes software, sails, and plays saxophone.",
+          "He says — and I love this — if anyone needs twenty years of ICT experience, fish me out of the water.",
+          "Now he is back, twelve months stronger.",
+          "Eindhoven feels like his pool — let's see what it gives back today."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Next heat coming up. Give our athletes a moment to focus."
+  },
+  {
+    "id": "DNF-3",
+    "discipline": "DNF",
+    "heat_number": 3,
+    "official_top": "13:03",
+    "warm_up": "12:18",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-054",
+        "name": "Tiemo Benjamin Esser",
+        "gender": "M",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "50m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "First competition ever.",
+          "No records yet, no personal bests yet — just pure potential and a whole lot of exciting unknown.",
+          "Tiemo, we are glad you are here.",
+          "Make it count!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-055",
+        "name": "Nikola Popovic",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "50m",
+        "announced_performance": "10m",
+        "pronunciation": "Nikola — just like it sounds",
+        "notes": [
+          "This is Nikola's first ever AIDA competition.",
+          "Every metre he swims today is a personal best.",
+          "What a moment to step into — welcome to the sport, Nikola!"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A few seconds to breathe — for us and for them."
+  },
+  {
+    "id": "DNF-4",
+    "discipline": "DNF",
+    "heat_number": 4,
+    "official_top": "13:07",
+    "warm_up": "12:22",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-056",
+        "name": "Nostalgie Pelsener",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "58m",
+        "announced_performance": "50m",
+        "pronunciation": null,
+        "notes": [
+          "Nostalgie from Belgium training with the cucumber team",
+          "Nostalgie has done it all — static, dynamic, bi-fins, no-fins — across eleven competitions including the World Championship in Japan last year.",
+          "She is one of Belgium's most all-round athletes, and she brings that experience here today."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-012",
+        "name": "Hugo Mosch",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "60m",
+        "announced_performance": "50m",
+        "pronunciation": "Hugo — say it like You-Go",
+        "notes": [
+          "Hugo is Dutch but lives and teaches freediving on the island of Curaçao — blue ocean, sunshine, and fish every day.",
+          "He is also a software consultant and loves mountain biking.",
+          "He says freediving has taught him levels of relaxation that are useful in the water and in everyday life.",
+          "First competition, home country.",
+          "Welcome back to the Netherlands, Hugo — let's go!"
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "The pool is quiet for now. Not for long."
+  },
+  {
+    "id": "DNF-5",
+    "discipline": "DNF",
+    "heat_number": 5,
+    "official_top": "13:11",
+    "warm_up": "12:26",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-022",
+        "name": "Valentina Pistritto",
+        "gender": "F",
+        "country_code": "ITA",
+        "country": "Italy",
+        "personal_best": "75m",
+        "announced_performance": "1m",
+        "pronunciation": "Valentina — just like it sounds",
+        "notes": [
+          "Valentina is from Palermo in Sicily, lives in Geneva, and works as a Procurement Officer for the United Nations.",
+          "She has loved going underwater since she was a child — she just did not know it was a sport back then.",
+          "She is also a mum — hello to her daughter Isabella, thirteen years old.",
+          "And she recently took up sport shooting — pistols and rifles — to work on focus and concentration.",
+          "UN officer, mum, shooter, freediver.",
+          "Valentina does not do things by half.",
+          "Shoutouts to brother Antonio who is here today, coach Ivan, and depth coach Riccardo."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-057",
+        "name": "Safia Falek",
+        "gender": "F",
+        "country_code": "ALG",
+        "country": "Algeria",
+        "personal_best": "79m",
+        "announced_performance": "50m",
+        "pronunciation": null,
+        "notes": [
+          "Two national records.",
+          "That is what Safia Falek holds for Algeria — number one in the country in both DYNB and DNF.",
+          "She was in Belgium just a few weeks ago competing, so she is sharp, she is ready, and Eindhoven is going to feel her presence."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Every heat, a different story. Let's see what this one brings."
+  },
+  {
+    "id": "DNF-6",
+    "discipline": "DNF",
+    "heat_number": 6,
+    "official_top": "13:15",
+    "warm_up": "12:30",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-058",
+        "name": "Bernhard Romanik",
+        "gender": "M",
+        "country_code": "AUT",
+        "country": "Austria",
+        "personal_best": "80m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "Only two competitions so far, but a no-fins best of 80 metres is a solid start.",
+          "Bernhard is just getting going, and today in Eindhoven could be the day his story really begins.",
+          "Let's cheer him on!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-059",
+        "name": "Jamine De Wandel",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "80m",
+        "announced_performance": "75m",
+        "pronunciation": "YA-mee-neh",
+        "notes": [
+          "Jamine is a nursing student from Leuven in Belgium.",
+          "She is also a musician, a sound healer, a table tennis player, and a volleyball player.",
+          "She does mermaiding as well.",
+          "She trains with three clubs — Scylla, Abyss, and Albatros.",
+          "She says: in the end it is not about competing against anyone — not even yourself.",
+          "It is about the connection, through the water, with each other.",
+          "Second competition today.",
+          "We are very happy she is here."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Stay with us — the next heat is about to begin."
+  },
+  {
+    "id": "DNF-7",
+    "discipline": "DNF",
+    "heat_number": 7,
+    "official_top": "13:19",
+    "warm_up": "12:34",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-008",
+        "name": "Ute Weinrich",
+        "gender": "F",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "81m",
+        "announced_performance": "80m",
+        "pronunciation": null,
+        "notes": [
+          "She stepped away from competition for a while, and now she is back.",
+          "A static best of five thirty-three, bi-fins at 106 metres — Ute has not forgotten how to do this.",
+          "Germany is very happy to have her competing again."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-060",
+        "name": "Stasi Filakouris",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "83m",
+        "announced_performance": "50m",
+        "pronunciation": "Stasi — STAH-see",
+        "notes": [
+          "She competed at the Hungarian Open last year and now she is back for more.",
+          "No published best yet — but that changes today.",
+          "Stasi is here to put a number on the board and start building her AIDA story."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "One heat done. The next one is already warming up."
+  },
+  {
+    "id": "DNF-8",
+    "discipline": "DNF",
+    "heat_number": 8,
+    "official_top": "13:23",
+    "warm_up": "12:38",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-061",
+        "name": "Jennifer Koppers",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "91m",
+        "announced_performance": "55m",
+        "pronunciation": null,
+        "notes": [
+          "Static, dynamic, bi-fins, no-fins — Jennifer competes across all four main pool disciplines and has collected three gold medals doing it.",
+          "Seven competitions since 2021 and always a factor in whatever event she enters.",
+          "A great all-round competitor."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-062",
+        "name": "Pascale Gigon",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "112m",
+        "announced_performance": "65m",
+        "pronunciation": "Pas-KAHL ZHEE-gon — ZH as in measure",
+        "notes": [
+          "Forty years in contemporary dance — as dancer, choreographer, and dramaturge.",
+          "Then, on the eve of her sixtieth birthday, she discovered freediving.",
+          "Her first ever competition was December 2024.",
+          "Five months later — she was at the CMAS World Championship.",
+          "That is not a journey, that is a rocket.",
+          "Gold medal at the Belgian Cup, bi-fins best of 136 metres, no-fins at 112 metres.",
+          "Her kids Jules and Louda are watching the livestream right now.",
+          "Pascale — you are showing everyone what is possible at any age."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A moment between the action. Enjoy it — it won't last long."
+  },
+  {
+    "id": "DNF-9",
+    "discipline": "DNF",
+    "heat_number": 9,
+    "official_top": "13:28",
+    "warm_up": "12:43",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-063",
+        "name": "Flynn Thomas",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "113m",
+        "announced_performance": "75m",
+        "pronunciation": "Flynn — rhymes with pin",
+        "notes": [
+          "Flynn is from Cornwall, where he surfs and skydives when he is not holding his breath.",
+          "He says there is something very addictive about freediving — he still has no idea why he started.",
+          "He has one message for his teammate Chris Burtwell — 'Tell Chris I am coming for him.'",
+          "Big thanks to George and Daan from Aquacity Freediving — the most supportive people he could ask for."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-064",
+        "name": "Elisabeth Mattes",
+        "gender": "F",
+        "country_code": "AUT",
+        "country": "Austria",
+        "personal_best": "118m",
+        "announced_performance": "51m",
+        "pronunciation": "Elisabeth — like the Queen of England",
+        "notes": [
+          "Elisabeth is from Vienna and works in social media management.",
+          "She has been competing since she can remember — twenty-nine competitions, an Austrian national record in no-fins at 118 metres, and still going.",
+          "She says she loves the glide, the movement, and the people she has met through the sport.",
+          "Shoutouts to her two Vienna clubs — Divestyle and the Austrian Rescue Team."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The water is still. The athletes are ready."
+  },
+  {
+    "id": "DNF-10",
+    "discipline": "DNF",
+    "heat_number": 10,
+    "official_top": "13:33",
+    "warm_up": "12:48",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-065",
+        "name": "Marie-Lorraine Weiss",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "119m",
+        "announced_performance": "50m",
+        "pronunciation": "WAIS — marie loraine WAIS",
+        "notes": [
+          "Marie-Lorraine is an occupational therapist and hypnotherapist from Brussels.",
+          "She trains with club Abyss and has a static best of five twenty-one.",
+          "Why freediving?",
+          "Zero idea, she says.",
+          "She was born with water in the head — and her family had mountains in the head.",
+          "Very frustrating.",
+          "Big shoutouts to the cucumber team and coach Paula Bazilio."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-066",
+        "name": "Anni Højgaard",
+        "gender": "F",
+        "country_code": "DEN",
+        "country": "Denmark",
+        "personal_best": "122m",
+        "announced_performance": "100m",
+        "pronunciation": "Anni — HOY-gor",
+        "notes": [
+          "Anni is from the Faroe Islands, competing for Denmark, and trains with the Pearl Divers club in Holbaek.",
+          "By day she works in health care and nursing.",
+          "She says freediving gives her one thing above everything else — me time.",
+          "Ten gold medals, eighteen competitions, and she still just wants a quiet moment underwater.",
+          "Shoutouts to her teammates Valentina and Michele — who are also in this pool today."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Deep breath. For all of us."
+  },
+  {
+    "id": "DNF-11",
+    "discipline": "DNF",
+    "heat_number": 11,
+    "official_top": "13:38",
+    "warm_up": "12:53",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-003",
+        "name": "Désirée Sommers",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "125m",
+        "announced_performance": "100m",
+        "pronunciation": null,
+        "notes": [
+          "She came to this exact pool one year ago — her very first AIDA competition — and swam 191 metres in bi-fins.",
+          "Dutch national record.",
+          "Day one.",
+          "By day she works as a technical superintendent in the maritime industry.",
+          "Her employer, Acta Marine, is sponsoring her trip to the AIDA World Championship in Budapest.",
+          "Her boyfriend patiently listens to all her freediving stories after every training session.",
+          "That is love.",
+          "Same pool, one year stronger — how far today?"
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-004",
+        "name": "Roeland Maes",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "125m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Ten competitions, and Roeland just keeps getting better.",
+          "His bi-fins best is 166 metres, no-fins 125 metres — strong numbers across the board.",
+          "Belgium has a lot of great athletes today, and Roeland is right at the heart of that team."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "The clock is set. The lane is clear. Next up —"
+  },
+  {
+    "id": "DNF-12",
+    "discipline": "DNF",
+    "heat_number": 12,
+    "official_top": "13:43",
+    "warm_up": "12:58",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-067",
+        "name": "Caroline Rodrigues Gonzalez",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "126m",
+        "announced_performance": "50m",
+        "pronunciation": null,
+        "notes": [
+          "Belgian national record in no-fins at 126 metres.",
+          "World Championship last year.",
+          "Five gold medals.",
+          "Caroline is one of Belgium's finest, and she brings serious confidence into this pool today.",
+          "A big performance is on the cards."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-011",
+        "name": "Constantin Timosca",
+        "gender": "M",
+        "country_code": "ROU",
+        "country": "Romania",
+        "personal_best": "129m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "Twelve competitions, three countries, a static best of six twelve, dynamic at 158 metres, no-fins at 129 metres — Constantin brings the full package from Romania.",
+          "He also judges competitions, which means he sees the sport from both sides.",
+          "A sharp, experienced mind in the water."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Short break — and then straight back into it."
+  },
+  {
+    "id": "DNF-13",
+    "discipline": "DNF",
+    "heat_number": 13,
+    "official_top": "13:48",
+    "warm_up": "13:03",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-068",
+        "name": "Nikolai Von Hoffmann",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "131m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Belgium's top-ranked male in both bi-fins and no-fins — 166 metres with fins, 131 metres without.",
+          "By day he works on railway signalling projects, runs, and takes his coffee very seriously.",
+          "His kids Bastien and Lucie might be watching right now — hi Bastien, hi Lucie!",
+          "Three gold medals, nine competitions in.",
+          "A strong one to watch today."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-069",
+        "name": "Brieuc Simon",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "134m",
+        "announced_performance": "85m",
+        "pronunciation": null,
+        "notes": [
+          "Five competitions and already a bi-fins best of 150 metres and no-fins at 134 metres.",
+          "Brieuc is moving fast up the Belgian rankings and shows no sign of slowing down.",
+          "Today could be another big step forward."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Our next athletes are stepping up. Let's welcome them."
+  },
+  {
+    "id": "DNF-14",
+    "discipline": "DNF",
+    "heat_number": 14,
+    "official_top": "13:53",
+    "warm_up": "13:08",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-070",
+        "name": "Ludmilla Eimer",
+        "gender": "F",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "141m",
+        "announced_performance": "100m",
+        "pronunciation": null,
+        "notes": [
+          "Dynamic fins at 192 metres.",
+          "Bimanual fins at 179 metres.",
+          "No-fins at 141 metres.",
+          "Static at six minutes nine seconds.",
+          "Four gold medals.",
+          "A World Championship.",
+          "Ludmilla is Germany's strongest female pool athlete here today — and by some distance.",
+          "She is the one the rest of the field is measuring themselves against."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-002",
+        "name": "Joost Rothweiler",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "144m",
+        "announced_performance": "1m",
+        "pronunciation": null,
+        "notes": [
+          "Dutch national records in both dynamic fins at 209 metres and bi-fins at 217 metres.",
+          "Seven gold medals.",
+          "And today he swims at home in front of a home crowd.",
+          "Joost is the favourite in the finswimming lanes, and everyone in this pool knows it.",
+          "This one is special."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Every athlete here trained for this moment. Full attention."
+  },
+  {
+    "id": "DNF-15",
+    "discipline": "DNF",
+    "heat_number": 15,
+    "official_top": "13:58",
+    "warm_up": "13:13",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-071",
+        "name": "Sam Mccullen",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "154m",
+        "announced_performance": "100m",
+        "pronunciation": null,
+        "notes": [
+          "Eleven competitions, four gold medals, a World Championship in Japan, and one of the busiest competition schedules in the British team.",
+          "His no-fins best of 154 metres is a seriously impressive number.",
+          "Sam shows up everywhere and performs everywhere — a fantastic competitor."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-026",
+        "name": "Eric Van Riet Paap",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "155m",
+        "announced_performance": "1m",
+        "pronunciation": null,
+        "notes": [
+          "Eight minutes and twenty-six seconds in static.",
+          "Thirty-seven gold medals.",
+          "Over fifty competitions going back all the way to 2007.",
+          "Eric is a Dutch freediving legend — full stop.",
+          "He is also still here, still competing, still setting the standard.",
+          "One of the great pleasures of this sport is watching him in the water."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "While our athletes take their final breaths — give them a big hand."
+  },
+  {
+    "id": "DYNB-1",
+    "discipline": "DYNB",
+    "heat_number": 1,
+    "official_top": "14:20",
+    "warm_up": "13:35",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-072",
+        "name": "Hanna Bialiayeva",
+        "gender": "F",
+        "country_code": "INT",
+        "country": "International",
+        "personal_best": "40m",
+        "announced_performance": "10m",
+        "pronunciation": "Hanna Bya-lya-YEH-va",
+        "notes": [
+          "Hanna has done static before — a personal best of 4 minutes 2 seconds — and some free immersion depth work at 30 metres.",
+          "But the dynamic lane today is brand new for her.",
+          "New discipline, same breath.",
+          "Welcome Hanna!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-052",
+        "name": "Tonny Siemons",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "50m",
+        "announced_performance": "60m",
+        "pronunciation": "Tonny — just like it sounds",
+        "notes": [
+          "Tonny is an IT entrepreneur from Amsterdam, a certified scuba instructor, and this year he added freediving to the list.",
+          "He loves water, he loves endurance sports — running, cycling, and now this.",
+          "First competition today.",
+          "The next chapter starts right here."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Next heat coming up. Give our athletes a moment to focus."
+  },
+  {
+    "id": "DYNB-2",
+    "discipline": "DYNB",
+    "heat_number": 2,
+    "official_top": "14:24",
+    "warm_up": "13:39",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-060",
+        "name": "Stasi Filakouris",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "50m",
+        "announced_performance": "50m",
+        "pronunciation": "Stasi — STAH-see",
+        "notes": [
+          "She competed at the Hungarian Open last year and now she is back for more.",
+          "No published best yet — but that changes today.",
+          "Stasi is here to put a number on the board and start building her AIDA story."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-073",
+        "name": "Shauni Rovers",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "50m",
+        "announced_performance": "30m",
+        "pronunciation": null,
+        "notes": [
+          "Shauni's first competition.",
+          "A brand new chapter is opening up right here in Eindhoven.",
+          "No record yet — just a big smile and a first dive.",
+          "Welcome to the sport, Shauni!"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A few seconds to breathe — for us and for them."
+  },
+  {
+    "id": "DYNB-3",
+    "discipline": "DYNB",
+    "heat_number": 3,
+    "official_top": "14:28",
+    "warm_up": "13:43",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-074",
+        "name": "Rafal Walachowski",
+        "gender": "M",
+        "country_code": "POL",
+        "country": "Poland",
+        "personal_best": "64m",
+        "announced_performance": "50m",
+        "pronunciation": "Rafal — read it as written",
+        "notes": [
+          "Rafal is from Poland but trains in the Netherlands — in Bergen op Zoom and Vlissingen.",
+          "He is a carpenter by trade, and when he is not in the water he is out walking with his wife Karolina and their two bull terriers.",
+          "He says he loves freediving for the silence underwater.",
+          "Beautiful.",
+          "Thanks go to coach Notala Wilk, training partner Boudewijn, and of course Karolina."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-058",
+        "name": "Bernhard Romanik",
+        "gender": "M",
+        "country_code": "AUT",
+        "country": "Austria",
+        "personal_best": "65m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "Only two competitions so far, but a no-fins best of 80 metres is a solid start.",
+          "Bernhard is just getting going, and today in Eindhoven could be the day his story really begins.",
+          "Let's cheer him on!"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The pool is quiet for now. Not for long."
+  },
+  {
+    "id": "DYNB-4",
+    "discipline": "DYNB",
+    "heat_number": 4,
+    "official_top": "14:32",
+    "warm_up": "13:47",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-075",
+        "name": "Lara Von Strombeck",
+        "gender": "F",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "75m",
+        "announced_performance": "7m",
+        "pronunciation": null,
+        "notes": [
+          "Lara steps into her very first AIDA competition today.",
+          "The pool is all hers, the clock is ready, and whatever she swims today will be her first entry in the books.",
+          "Welcome, Lara!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-013",
+        "name": "Simon Klaver",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "78m",
+        "announced_performance": "55m",
+        "pronunciation": null,
+        "notes": [
+          "One competition, April 2026, bi-fins at 78 metres.",
+          "Simon is fresh into his AIDA journey and already showing what he can do.",
+          "Second competition today — expect him to push that number further."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Every heat, a different story. Let's see what this one brings."
+  },
+  {
+    "id": "DYNB-5",
+    "discipline": "DYNB",
+    "heat_number": 5,
+    "official_top": "14:36",
+    "warm_up": "13:51",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-053",
+        "name": "Aleksandr Vinokurov",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "79m",
+        "announced_performance": "60m",
+        "pronunciation": "vie-na-kOE-rof (stress on kOE)",
+        "notes": [
+          "He was here last year for his first competition and posted a bi-fins best of 79 metres.",
+          "Lives in Almere, writes software, sails, and plays saxophone.",
+          "He says — and I love this — if anyone needs twenty years of ICT experience, fish me out of the water.",
+          "Now he is back, twelve months stronger.",
+          "Eindhoven feels like his pool — let's see what it gives back today."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-076",
+        "name": "Bas Mensonides",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "95m",
+        "announced_performance": "50m",
+        "pronunciation": "Bas — like the bus you ride on",
+        "notes": [
+          "Bas is from Amsterdam and trains with Blue Mind Freediving.",
+          "Outside the pool he plays pool table, rides dirt bikes, and runs breathwork sessions.",
+          "He says the breath-hold is his meditation.",
+          "Straightforward, honest, and very Dutch.",
+          "Seven competitions in and always a pleasure to watch.",
+          "Thanks to all training buddies!"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Stay with us — the next heat is about to begin."
+  },
+  {
+    "id": "DYNB-6",
+    "discipline": "DYNB",
+    "heat_number": 6,
+    "official_top": "14:40",
+    "warm_up": "13:55",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-077",
+        "name": "Bram Kuppens",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "100m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "First competition, home pool, and a whole journey just beginning.",
+          "Every single metre Bram swims today is new home water.",
+          "We love a first competition — go get it, Bram!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-012",
+        "name": "Hugo Mosch",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "100m",
+        "announced_performance": "80m",
+        "pronunciation": "Hugo — say it like You-Go",
+        "notes": [
+          "Hugo is Dutch but lives and teaches freediving on the island of Curaçao — blue ocean, sunshine, and fish every day.",
+          "He is also a software consultant and loves mountain biking.",
+          "He says freediving has taught him levels of relaxation that are useful in the water and in everyday life.",
+          "First competition, home country.",
+          "Welcome back to the Netherlands, Hugo — let's go!"
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "One heat done. The next one is already warming up."
+  },
+  {
+    "id": "DYNB-7",
+    "discipline": "DYNB",
+    "heat_number": 7,
+    "official_top": "14:45",
+    "warm_up": "14:00",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-059",
+        "name": "Jamine De Wandel",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "103m",
+        "announced_performance": "75m",
+        "pronunciation": "YA-mee-neh",
+        "notes": [
+          "Jamine is a nursing student from Leuven in Belgium.",
+          "She is also a musician, a sound healer, a table tennis player, and a volleyball player.",
+          "She does mermaiding as well.",
+          "She trains with three clubs — Scylla, Abyss, and Albatros.",
+          "She says: in the end it is not about competing against anyone — not even yourself.",
+          "It is about the connection, through the water, with each other.",
+          "Second competition today.",
+          "We are very happy she is here."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-057",
+        "name": "Safia Falek",
+        "gender": "F",
+        "country_code": "ALG",
+        "country": "Algeria",
+        "personal_best": "105m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Two national records.",
+          "That is what Safia Falek holds for Algeria — number one in the country in both DYNB and DNF.",
+          "She was in Belgium just a few weeks ago competing, so she is sharp, she is ready, and Eindhoven is going to feel her presence."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A moment between the action. Enjoy it — it won't last long."
+  },
+  {
+    "id": "DYNB-8",
+    "discipline": "DYNB",
+    "heat_number": 8,
+    "official_top": "14:50",
+    "warm_up": "14:05",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-078",
+        "name": "Anne Sachtleven",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "108m",
+        "announced_performance": "60m",
+        "pronunciation": null,
+        "notes": [
+          "An AIDA instructor with a bi-fins best of 108 metres — the knowledge she shares with her students she has clearly applied to herself.",
+          "Third competition today, and a personal best to aim at.",
+          "Great to see her back in the pool."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-079",
+        "name": "Eszter Kaloczkai",
+        "gender": "F",
+        "country_code": "IRL",
+        "country": "Ireland",
+        "personal_best": "110m",
+        "announced_performance": "10m",
+        "pronunciation": "Eszter — just Eszter, do NOT attempt the last name!",
+        "notes": [
+          "Eszter — just call her Eszter, she says don't attempt the last name!",
+          "From Hungary, living in Ireland for sixteen years, she runs the Irish Freediving Club and recently started teaching freediving too.",
+          "She has an email job, she goes to punk gigs, and she switched from scuba because the equipment was too heavy.",
+          "Big thanks to all buddies at the Irish Freediving Club, especially Enda.",
+          "Eszter does the commentary at the World Championship every year — she is the best in the sport.",
+          "She told me: see you in Budapest.",
+          "I cannot wait."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The water is still. The athletes are ready."
+  },
+  {
+    "id": "DYNB-9",
+    "discipline": "DYNB",
+    "heat_number": 9,
+    "official_top": "14:55",
+    "warm_up": "14:10",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-005",
+        "name": "Maéva Bussard",
+        "gender": "F",
+        "country_code": "SUI",
+        "country": "Switzerland",
+        "personal_best": "110m",
+        "announced_performance": "1m",
+        "pronunciation": "ma-AY-va buh-SAR",
+        "notes": [
+          "Maéva is Swiss, lives in Brussels, and trains at the C.E.A.P. club.",
+          "She works as a film and radio director — making films about sport and how it keeps us going in life.",
+          "Why freediving?",
+          "She wanted to find the weirdest sport possible to make her parents proud.",
+          "First competition today.",
+          "Her parents are already proud, Maéva."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-080",
+        "name": "Annelies Freling",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "111m",
+        "announced_performance": "53m",
+        "pronunciation": "Ah-ne-lees",
+        "notes": [
+          "Three golds and eight silvers — Annelies knows what a podium looks like.",
+          "She trains at One Breath in Badhoevedorp with coach Helma and her training partner Judith next to her in the lane.",
+          "She says: freediving is like finding superhero powers within yourself.",
+          "Nine competitions in, and the powers keep growing."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Deep breath. For all of us."
+  },
+  {
+    "id": "DYNB-10",
+    "discipline": "DYNB",
+    "heat_number": 10,
+    "official_top": "15:00",
+    "warm_up": "14:15",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-081",
+        "name": "Hestia Heijkoop",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "123m",
+        "announced_performance": "55m",
+        "pronunciation": null,
+        "notes": [
+          "An artist who found freediving, and it turns out she is very good at it.",
+          "A bi-fins best of 123 metres from just two competitions is a really exciting number.",
+          "Third competition today — we are looking forward to seeing what she does with it."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-015",
+        "name": "Elisabeth Schalenbourg",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "134m",
+        "announced_performance": "20m",
+        "pronunciation": null,
+        "notes": [
+          "Elisabeth loves the bi-fins lane — and she is very good at it.",
+          "134 metres is her personal best, ranking her third in all of Belgium.",
+          "She knows what she wants to do today, and she has the skill to do it."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "The clock is set. The lane is clear. Next up —"
+  },
+  {
+    "id": "DYNB-11",
+    "discipline": "DYNB",
+    "heat_number": 11,
+    "official_top": "15:05",
+    "warm_up": "14:20",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-062",
+        "name": "Pascale Gigon",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "136m",
+        "announced_performance": "75m",
+        "pronunciation": "Pas-KAHL ZHEE-gon — ZH as in measure",
+        "notes": [
+          "Forty years in contemporary dance — as dancer, choreographer, and dramaturge.",
+          "Then, on the eve of her sixtieth birthday, she discovered freediving.",
+          "Her first ever competition was December 2024.",
+          "Five months later — she was at the CMAS World Championship.",
+          "That is not a journey, that is a rocket.",
+          "Gold medal at the Belgian Cup, bi-fins best of 136 metres, no-fins at 112 metres.",
+          "Her kids Jules and Louda are watching the livestream right now.",
+          "Pascale — you are showing everyone what is possible at any age."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-082",
+        "name": "Danny Martherus",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "150m",
+        "announced_performance": "111m",
+        "pronunciation": null,
+        "notes": [
+          "Danny is a psychiatric nurse from Zeist in the Netherlands and trains at Freediving Utrecht.",
+          "He calls himself a generalist — in his job, in his sports, in life.",
+          "Freediving is his weekly mindful moment — thirty-one competitions in, and he still finds calm at the bottom of the pool.",
+          "He says hi to everyone.",
+          "Hi Danny! 🖖"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Short break — and then straight back into it."
+  },
+  {
+    "id": "DYNB-12",
+    "discipline": "DYNB",
+    "heat_number": 12,
+    "official_top": "15:10",
+    "warm_up": "14:25",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-006",
+        "name": "Sophie Piron",
+        "gender": "F",
+        "country_code": "CAN",
+        "country": "Canada",
+        "personal_best": "150m",
+        "announced_performance": "40m",
+        "pronunciation": "sofi piRON — French name",
+        "notes": [
+          "Six minutes and twenty seconds in static apnea — Canada's number two.",
+          "Sophie is a university professor in Montreal, and she makes the long trip as Canada's only athlete today.",
+          "Why freediving?",
+          "So relaxing, she says.",
+          "When not competing.",
+          "Give it up for Sophie!"
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-011",
+        "name": "Constantin Timosca",
+        "gender": "M",
+        "country_code": "ROU",
+        "country": "Romania",
+        "personal_best": "150m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "Twelve competitions, three countries, a static best of six twelve, dynamic at 158 metres, no-fins at 129 metres — Constantin brings the full package from Romania.",
+          "He also judges competitions, which means he sees the sport from both sides.",
+          "A sharp, experienced mind in the water."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Our next athletes are stepping up. Let's welcome them."
+  },
+  {
+    "id": "DYNB-13",
+    "discipline": "DYNB",
+    "heat_number": 13,
+    "official_top": "15:15",
+    "warm_up": "14:30",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-020",
+        "name": "Michele Usai",
+        "gender": "M",
+        "country_code": "ITA",
+        "country": "Italy",
+        "personal_best": "150m",
+        "announced_performance": "7m",
+        "pronunciation": "Mi-cheh-leh",
+        "notes": [
+          "Michele is from Italy and — this is brilliant — runs a pizza food truck.",
+          "He is also a carpenter and handyman.",
+          "DYN of 166 metres, DYNB of 150 metres, six competitions across Egypt and the Netherlands.",
+          "He says freediving is a sport.",
+          "Simple.",
+          "True.",
+          "And he will be serving more than pizza today."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-067",
+        "name": "Caroline Rodrigues Gonzalez",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "155m",
+        "announced_performance": "80m",
+        "pronunciation": null,
+        "notes": [
+          "Belgian national record in no-fins at 126 metres.",
+          "World Championship last year.",
+          "Five gold medals.",
+          "Caroline is one of Belgium's finest, and she brings serious confidence into this pool today.",
+          "A big performance is on the cards."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Every athlete here trained for this moment. Full attention."
+  },
+  {
+    "id": "DYNB-14",
+    "discipline": "DYNB",
+    "heat_number": 14,
+    "official_top": "15:22",
+    "warm_up": "14:37",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-064",
+        "name": "Elisabeth Mattes",
+        "gender": "F",
+        "country_code": "AUT",
+        "country": "Austria",
+        "personal_best": "159m",
+        "announced_performance": "51m",
+        "pronunciation": "Elisabeth — like the Queen of England",
+        "notes": [
+          "Elisabeth is from Vienna and works in social media management.",
+          "She has been competing since she can remember — twenty-nine competitions, an Austrian national record in no-fins at 118 metres, and still going.",
+          "She says she loves the glide, the movement, and the people she has met through the sport.",
+          "Shoutouts to her two Vienna clubs — Divestyle and the Austrian Rescue Team."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-083",
+        "name": "Natascha Leisi",
+        "gender": "F",
+        "country_code": "SUI",
+        "country": "Switzerland",
+        "personal_best": "159m",
+        "announced_performance": "80m",
+        "pronunciation": null,
+        "notes": [
+          "Swiss national record in bi-fins at 159 metres.",
+          "World Championships in 2023 and 2025.",
+          "She also organises freediving events, so she knows exactly what goes into a competition like this — and exactly how to perform in one.",
+          "A world-class athlete and a great ambassador for the sport."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "While our athletes take their final breaths — give them a big hand."
+  },
+  {
+    "id": "DYNB-15",
+    "discipline": "DYNB",
+    "heat_number": 15,
+    "official_top": "15:29",
+    "warm_up": "14:44",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-026",
+        "name": "Eric Van Riet Paap",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "163m",
+        "announced_performance": "1m",
+        "pronunciation": null,
+        "notes": [
+          "Eight minutes and twenty-six seconds in static.",
+          "Thirty-seven gold medals.",
+          "Over fifty competitions going back all the way to 2007.",
+          "Eric is a Dutch freediving legend — full stop.",
+          "He is also still here, still competing, still setting the standard.",
+          "One of the great pleasures of this sport is watching him in the water."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-068",
+        "name": "Nikolai Von Hoffmann",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "166m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Belgium's top-ranked male in both bi-fins and no-fins — 166 metres with fins, 131 metres without.",
+          "By day he works on railway signalling projects, runs, and takes his coffee very seriously.",
+          "His kids Bastien and Lucie might be watching right now — hi Bastien, hi Lucie!",
+          "Three gold medals, nine competitions in.",
+          "A strong one to watch today."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Next heat coming up. Give our athletes a moment to focus."
+  },
+  {
+    "id": "DYNB-16",
+    "discipline": "DYNB",
+    "heat_number": 16,
+    "official_top": "15:36",
+    "warm_up": "14:51",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-009",
+        "name": "Philippe Fin",
+        "gender": "M",
+        "country_code": "FRA",
+        "country": "France",
+        "personal_best": "170m",
+        "announced_performance": "150m",
+        "pronunciation": null,
+        "notes": [
+          "Philippe is a caregiver from Paris and trains at the MASA club just south of the city.",
+          "A depth specialist with a CWTB best of 50 metres — and a static personal best of seven minutes twenty-seven seconds, which is a seriously impressive number.",
+          "Today is a special day as well — it is his son Jules' twenty-first birthday.",
+          "Happy birthday Jules!",
+          "Your dad is holding his breath in a pool in Eindhoven to celebrate."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-084",
+        "name": "Chris Burtwell",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "173m",
+        "announced_performance": "1m",
+        "pronunciation": "Kris",
+        "notes": [
+          "Chris is from Cornwall in England and works as a farrier — he shoes horses for a living.",
+          "He is also a dad of two.",
+          "Nine competitions in, DYN of 175 metres, DYNB of 173 metres.",
+          "Shoutouts to coaches Georgina Miller and Daan Verhoeven.",
+          "And Flynn Thomas has a message for him.",
+          "Chris — you have been warned."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A few seconds to breathe — for us and for them."
+  },
+  {
+    "id": "DYNB-17",
+    "discipline": "DYNB",
+    "heat_number": 17,
+    "official_top": "15:43",
+    "warm_up": "14:58",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-070",
+        "name": "Ludmilla Eimer",
+        "gender": "F",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "179m",
+        "announced_performance": "110m",
+        "pronunciation": null,
+        "notes": [
+          "Dynamic fins at 192 metres.",
+          "Bimanual fins at 179 metres.",
+          "No-fins at 141 metres.",
+          "Static at six minutes nine seconds.",
+          "Four gold medals.",
+          "A World Championship.",
+          "Ludmilla is Germany's strongest female pool athlete here today — and by some distance.",
+          "She is the one the rest of the field is measuring themselves against."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-085",
+        "name": "Emilien Audeguil",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "224m",
+        "announced_performance": "155m",
+        "pronunciation": "Eh-meel-yen Oh-deh-GEEL",
+        "notes": [
+          "UK national record in bi-fins at 224 metres.",
+          "No-fins at 170 metres.",
+          "Six gold medals in just three competitions.",
+          "Emilien is one of the most exciting athletes in this entire field — the kind of person who makes the rest of the pool stop and look.",
+          "When he gets in the water today, pay attention."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The pool is quiet for now. Not for long."
+  },
+  {
+    "id": "DYNB-18",
+    "discipline": "DYNB",
+    "heat_number": 18,
+    "official_top": "15:50",
+    "warm_up": "15:05",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-086",
+        "name": "Adam Jerzy Rodewald",
+        "gender": "M",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "225m",
+        "announced_performance": "100m",
+        "pronunciation": "Adam — not Edem",
+        "notes": [
+          "Adam is an osteopath from southern Germany, and he trains with his wife Sabine.",
+          "225 metres in DYNB puts him world number 41 — one of the best bi-fins athletes on the planet.",
+          "Why freediving?",
+          "He says: going to places in my mind that are only possible with freediving.",
+          "Shoutouts to wife Sabine and brothers Sebastian and Peter."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-087",
+        "name": "Martin Sung Jensen",
+        "gender": "M",
+        "country_code": "DEN",
+        "country": "Denmark",
+        "personal_best": "239m",
+        "announced_performance": "7m",
+        "pronunciation": "Martin Soong YEN-sen",
+        "notes": [
+          "Denmark's national record holder in both DYN at 252 metres and DYNB — that puts him world number 38 in the monofin and world number 70 in bi-fins.",
+          "A static best of seven minutes eight seconds confirms this is someone who is very comfortable sitting in the dark.",
+          "He also holds his own in no-fins — 154 metres, national number eleven.",
+          "Two gold medals, a silver, and a bronze — he collects hardware across every pool discipline he enters.",
+          "Most recently out at the Swedish National Pool Championships in March, so he arrives here sharp and race-ready.",
+          "Denmark's strongest pool athlete today — and one of the top thirty-eight in the world."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Every heat, a different story. Let's see what this one brings."
+  },
+  {
+    "id": "DYN-1",
+    "discipline": "DYN",
+    "heat_number": 1,
+    "official_top": "16:15",
+    "warm_up": "15:30",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-054",
+        "name": "Tiemo Benjamin Esser",
+        "gender": "M",
+        "country_code": "GER",
+        "country": "Germany",
+        "personal_best": "50m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "First competition ever.",
+          "No records yet, no personal bests yet — just pure potential and a whole lot of exciting unknown.",
+          "Tiemo, we are glad you are here.",
+          "Make it count!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-065",
+        "name": "Marie-Lorraine Weiss",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "50m",
+        "announced_performance": "50m",
+        "pronunciation": "WAIS — marie loraine WAIS",
+        "notes": [
+          "Marie-Lorraine is an occupational therapist and hypnotherapist from Brussels.",
+          "She trains with club Abyss and has a static best of five twenty-one.",
+          "Why freediving?",
+          "Zero idea, she says.",
+          "She was born with water in the head — and her family had mountains in the head.",
+          "Very frustrating.",
+          "Big shoutouts to the cucumber team and coach Paula Bazilio."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Stay with us — the next heat is about to begin."
+  },
+  {
+    "id": "DYN-2",
+    "discipline": "DYN",
+    "heat_number": 2,
+    "official_top": "16:19",
+    "warm_up": "15:34",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-055",
+        "name": "Nikola Popovic",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "60m",
+        "announced_performance": "10m",
+        "pronunciation": "Nikola — just like it sounds",
+        "notes": [
+          "This is Nikola's first ever AIDA competition.",
+          "Every metre he swims today is a personal best.",
+          "What a moment to step into — welcome to the sport, Nikola!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-076",
+        "name": "Bas Mensonides",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "75m",
+        "announced_performance": "50m",
+        "pronunciation": "Bas — like the bus you ride on",
+        "notes": [
+          "Bas is from Amsterdam and trains with Blue Mind Freediving.",
+          "Outside the pool he plays pool table, rides dirt bikes, and runs breathwork sessions.",
+          "He says the breath-hold is his meditation.",
+          "Straightforward, honest, and very Dutch.",
+          "Seven competitions in and always a pleasure to watch.",
+          "Thanks to all training buddies!"
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "One heat done. The next one is already warming up."
+  },
+  {
+    "id": "DYN-3",
+    "discipline": "DYN",
+    "heat_number": 3,
+    "official_top": "16:23",
+    "warm_up": "15:38",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-056",
+        "name": "Nostalgie Pelsener",
+        "gender": "F",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "84m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Nostalgie from Belgium training with the cucumber team",
+          "Nostalgie has done it all — static, dynamic, bi-fins, no-fins — across eleven competitions including the World Championship in Japan last year.",
+          "She is one of Belgium's most all-round athletes, and she brings that experience here today."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-074",
+        "name": "Rafal Walachowski",
+        "gender": "M",
+        "country_code": "POL",
+        "country": "Poland",
+        "personal_best": "100m",
+        "announced_performance": "50m",
+        "pronunciation": "Rafal — read it as written",
+        "notes": [
+          "Rafal is from Poland but trains in the Netherlands — in Bergen op Zoom and Vlissingen.",
+          "He is a carpenter by trade, and when he is not in the water he is out walking with his wife Karolina and their two bull terriers.",
+          "He says he loves freediving for the silence underwater.",
+          "Beautiful.",
+          "Thanks go to coach Notala Wilk, training partner Boudewijn, and of course Karolina."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A moment between the action. Enjoy it — it won't last long."
+  },
+  {
+    "id": "DYN-4",
+    "discipline": "DYN",
+    "heat_number": 4,
+    "official_top": "16:29",
+    "warm_up": "15:44",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-061",
+        "name": "Jennifer Koppers",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "113m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Static, dynamic, bi-fins, no-fins — Jennifer competes across all four main pool disciplines and has collected three gold medals doing it.",
+          "Seven competitions since 2021 and always a factor in whatever event she enters.",
+          "A great all-round competitor."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-081",
+        "name": "Hestia Heijkoop",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "123m",
+        "announced_performance": "55m",
+        "pronunciation": null,
+        "notes": [
+          "An artist who found freediving, and it turns out she is very good at it.",
+          "A bi-fins best of 123 metres from just two competitions is a really exciting number.",
+          "Third competition today — we are looking forward to seeing what she does with it."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The water is still. The athletes are ready."
+  },
+  {
+    "id": "DYN-5",
+    "discipline": "DYN",
+    "heat_number": 5,
+    "official_top": "16:35",
+    "warm_up": "15:50",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-003",
+        "name": "Désirée Sommers",
+        "gender": "F",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "125m",
+        "announced_performance": "100m",
+        "pronunciation": null,
+        "notes": [
+          "She came to this exact pool one year ago — her very first AIDA competition — and swam 191 metres in bi-fins.",
+          "Dutch national record.",
+          "Day one.",
+          "By day she works as a technical superintendent in the maritime industry.",
+          "Her employer, Acta Marine, is sponsoring her trip to the AIDA World Championship in Budapest.",
+          "Her boyfriend patiently listens to all her freediving stories after every training session.",
+          "That is love.",
+          "Same pool, one year stronger — how far today?"
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-079",
+        "name": "Eszter Kaloczkai",
+        "gender": "F",
+        "country_code": "IRL",
+        "country": "Ireland",
+        "personal_best": "129m",
+        "announced_performance": "10m",
+        "pronunciation": "Eszter — just Eszter, do NOT attempt the last name!",
+        "notes": [
+          "Eszter — just call her Eszter, she says don't attempt the last name!",
+          "From Hungary, living in Ireland for sixteen years, she runs the Irish Freediving Club and recently started teaching freediving too.",
+          "She has an email job, she goes to punk gigs, and she switched from scuba because the equipment was too heavy.",
+          "Big thanks to all buddies at the Irish Freediving Club, especially Enda.",
+          "Eszter does the commentary at the World Championship every year — she is the best in the sport.",
+          "She told me: see you in Budapest.",
+          "I cannot wait."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Deep breath. For all of us."
+  },
+  {
+    "id": "DYN-6",
+    "discipline": "DYN",
+    "heat_number": 6,
+    "official_top": "16:41",
+    "warm_up": "15:56",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-021",
+        "name": "Michele Chincoli",
+        "gender": "M",
+        "country_code": "ITA",
+        "country": "Italy",
+        "personal_best": "136m",
+        "announced_performance": "75m",
+        "pronunciation": "Mi-cheh-leh",
+        "notes": [
+          "Back in Eindhoven for the second year running — Michele clearly likes what this pool brings out in him.",
+          "A dynamic fins best of 136 metres built steadily across six competitions, with depth diving in the mix too.",
+          "Good energy from this one."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-001",
+        "name": "Alex Doorey",
+        "gender": "F",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "137m",
+        "announced_performance": "25m",
+        "pronunciation": null,
+        "notes": [
+          "186 metres in bi-fins, world number 70, UK number two — and only six competitions in.",
+          "Alex is improving fast and has a World Championship already behind her.",
+          "In the women's finswimming, she is absolutely one to watch today."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "The clock is set. The lane is clear. Next up —"
+  },
+  {
+    "id": "DYN-7",
+    "discipline": "DYN",
+    "heat_number": 7,
+    "official_top": "16:47",
+    "warm_up": "16:02",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-022",
+        "name": "Valentina Pistritto",
+        "gender": "F",
+        "country_code": "ITA",
+        "country": "Italy",
+        "personal_best": "147m",
+        "announced_performance": "127m",
+        "pronunciation": "Valentina — just like it sounds",
+        "notes": [
+          "Valentina is from Palermo in Sicily, lives in Geneva, and works as a Procurement Officer for the United Nations.",
+          "She has loved going underwater since she was a child — she just did not know it was a sport back then.",
+          "She is also a mum — hello to her daughter Isabella, thirteen years old.",
+          "And she recently took up sport shooting — pistols and rifles — to work on focus and concentration.",
+          "UN officer, mum, shooter, freediver.",
+          "Valentina does not do things by half.",
+          "Shoutouts to brother Antonio who is here today, coach Ivan, and depth coach Riccardo."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-023",
+        "name": "Hannah Nicol",
+        "gender": "F",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "150m",
+        "announced_performance": "125m",
+        "pronunciation": null,
+        "notes": [
+          "World Championship experience, a DYNB of 159 metres, a DYN of 150 metres, instructor credentials, safety diver experience — Hannah brings everything to the pool and performs at every level of the sport.",
+          "Eindhoven 2025 was a strong outing for her, and she is back to do it again."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Short break — and then straight back into it."
+  },
+  {
+    "id": "DYN-8",
+    "discipline": "DYN",
+    "heat_number": 8,
+    "official_top": "16:53",
+    "warm_up": "16:08",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-088",
+        "name": "Eric Gerritsma",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "150m",
+        "announced_performance": "110m",
+        "pronunciation": null,
+        "notes": [
+          "Eric Gerritsma is the second Dutch Eric in the pool today — and he has earned his own introduction!",
+          "A DYN personal best of 150 metres, and he is here to swim it again.",
+          "Let's go Eric!"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-004",
+        "name": "Roeland Maes",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "154m",
+        "announced_performance": "75m",
+        "pronunciation": null,
+        "notes": [
+          "Ten competitions, and Roeland just keeps getting better.",
+          "His bi-fins best is 166 metres, no-fins 125 metres — strong numbers across the board.",
+          "Belgium has a lot of great athletes today, and Roeland is right at the heart of that team."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "Our next athletes are stepping up. Let's welcome them."
+  },
+  {
+    "id": "DYN-9",
+    "discipline": "DYN",
+    "heat_number": 9,
+    "official_top": "16:59",
+    "warm_up": "16:14",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-082",
+        "name": "Danny Martherus",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "155m",
+        "announced_performance": "11m",
+        "pronunciation": null,
+        "notes": [
+          "Danny is a psychiatric nurse from Zeist in the Netherlands and trains at Freediving Utrecht.",
+          "He calls himself a generalist — in his job, in his sports, in life.",
+          "Freediving is his weekly mindful moment — thirty-one competitions in, and he still finds calm at the bottom of the pool.",
+          "He says hi to everyone.",
+          "Hi Danny! 🖖"
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-069",
+        "name": "Brieuc Simon",
+        "gender": "M",
+        "country_code": "BEL",
+        "country": "Belgium",
+        "personal_best": "157m",
+        "announced_performance": "50m",
+        "pronunciation": null,
+        "notes": [
+          "Five competitions and already a bi-fins best of 150 metres and no-fins at 134 metres.",
+          "Brieuc is moving fast up the Belgian rankings and shows no sign of slowing down.",
+          "Today could be another big step forward."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Every athlete here trained for this moment. Full attention."
+  },
+  {
+    "id": "DYN-10",
+    "discipline": "DYN",
+    "heat_number": 10,
+    "official_top": "17:05",
+    "warm_up": "16:20",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-089",
+        "name": "Jurgen Reinderink",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "161m",
+        "announced_performance": "45m",
+        "pronunciation": "Yer-gun RYN-deh-rink",
+        "notes": [
+          "Canada, the Philippines, Latvia, the Netherlands — Jurgen has competed on nearly every continent and brought his bi-fins best of 179 metres and no-fins of 140 metres to each of them.",
+          "Judge, instructor, athlete.",
+          "Thirteen competitions in and still going strong."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-010",
+        "name": "Zakaria Brahmi",
+        "gender": "M",
+        "country_code": "ALG",
+        "country": "Algeria",
+        "personal_best": "161m",
+        "announced_performance": "110m",
+        "pronunciation": null,
+        "notes": [
+          "Zakaria is Algeria's number one in the pool — and he earned that title the hard way.",
+          "A national record of 161 metres in dynamic fins is a big, big number.",
+          "Three competitions in and already this good?",
+          "We cannot wait to see what comes next."
+        ],
+        "missing_data": false
+      }
+    ],
+    "transition": "While our athletes take their final breaths — give them a big hand."
+  },
+  {
+    "id": "DYN-11",
+    "discipline": "DYN",
+    "heat_number": 11,
+    "official_top": "17:11",
+    "warm_up": "16:26",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-063",
+        "name": "Flynn Thomas",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "162m",
+        "announced_performance": "75m",
+        "pronunciation": "Flynn — rhymes with pin",
+        "notes": [
+          "Flynn is from Cornwall, where he surfs and skydives when he is not holding his breath.",
+          "He says there is something very addictive about freediving — he still has no idea why he started.",
+          "He has one message for his teammate Chris Burtwell — 'Tell Chris I am coming for him.'",
+          "Big thanks to George and Daan from Aquacity Freediving — the most supportive people he could ask for."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-084",
+        "name": "Chris Burtwell",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "175m",
+        "announced_performance": "1m",
+        "pronunciation": "Kris",
+        "notes": [
+          "Chris is from Cornwall in England and works as a farrier — he shoes horses for a living.",
+          "He is also a dad of two.",
+          "Nine competitions in, DYN of 175 metres, DYNB of 173 metres.",
+          "Shoutouts to coaches Georgina Miller and Daan Verhoeven.",
+          "And Flynn Thomas has a message for him.",
+          "Chris — you have been warned."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Next heat coming up. Give our athletes a moment to focus."
+  },
+  {
+    "id": "DYN-12",
+    "discipline": "DYN",
+    "heat_number": 12,
+    "official_top": "17:17",
+    "warm_up": "16:32",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-071",
+        "name": "Sam Mccullen",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "177m",
+        "announced_performance": "80m",
+        "pronunciation": null,
+        "notes": [
+          "Eleven competitions, four gold medals, a World Championship in Japan, and one of the busiest competition schedules in the British team.",
+          "His no-fins best of 154 metres is a seriously impressive number.",
+          "Sam shows up everywhere and performs everywhere — a fantastic competitor."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-066",
+        "name": "Anni Højgaard",
+        "gender": "F",
+        "country_code": "DEN",
+        "country": "Denmark",
+        "personal_best": "184m",
+        "announced_performance": "150m",
+        "pronunciation": "Anni — HOY-gor",
+        "notes": [
+          "Anni is from the Faroe Islands, competing for Denmark, and trains with the Pearl Divers club in Holbaek.",
+          "By day she works in health care and nursing.",
+          "She says freediving gives her one thing above everything else — me time.",
+          "Ten gold medals, eighteen competitions, and she still just wants a quiet moment underwater.",
+          "Shoutouts to her teammates Valentina and Michele — who are also in this pool today."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "A few seconds to breathe — for us and for them."
+  },
+  {
+    "id": "DYN-13",
+    "discipline": "DYN",
+    "heat_number": 13,
+    "official_top": "17:23",
+    "warm_up": "16:38",
+    "athletes": [
+      {
+        "lane": "A",
+        "athlete_id": "ATH-090",
+        "name": "Darryl Palmer",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "200m",
+        "announced_performance": "1m",
+        "pronunciation": null,
+        "notes": [
+          "Darryl is from Hertfordshire and trains in a small 18-metre pool with his partner Paige as his safety diver.",
+          "She does not even freedive.",
+          "By day he invests in data centres — and when he is not doing that, he is boxing or climbing mountains.",
+          "His reason for the sport: the glide.",
+          "Nothing else feels like it.",
+          "Thanks to coach Theo-Patrick Fourcade, and of course to Paige, who makes it all possible."
+        ],
+        "missing_data": true
+      },
+      {
+        "lane": "D",
+        "athlete_id": "ATH-091",
+        "name": "Valentin Sadan",
+        "gender": "M",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "personal_best": "200m",
+        "announced_performance": "130m",
+        "pronunciation": null,
+        "notes": [
+          "Static six twenty-one, dynamic 200 metres, bi-fins 177 metres, no-fins 137 metres — Valentin has no weak spot.",
+          "He works for a luxury hotel and travel company and lives just around the corner from his training pool in London.",
+          "Very convenient.",
+          "He says freediving is the most addictive activity he can think of.",
+          "Thanks to coach Vincent at Hack Your Breath and partner Preeya."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "The pool is quiet for now. Not for long."
+  },
+  {
+    "id": "DYN-14",
+    "discipline": "DYN",
+    "heat_number": 14,
+    "official_top": "17:29",
+    "warm_up": "16:44",
+    "athletes": [
+      {
+        "lane": "B",
+        "athlete_id": "ATH-002",
+        "name": "Joost Rothweiler",
+        "gender": "M",
+        "country_code": "NED",
+        "country": "Netherlands",
+        "personal_best": "225m",
+        "announced_performance": "1m",
+        "pronunciation": null,
+        "notes": [
+          "Dutch national records in both dynamic fins at 209 metres and bi-fins at 217 metres.",
+          "Seven gold medals.",
+          "And today he swims at home in front of a home crowd.",
+          "Joost is the favourite in the finswimming lanes, and everyone in this pool knows it.",
+          "This one is special."
+        ],
+        "missing_data": false
+      },
+      {
+        "lane": "C",
+        "athlete_id": "ATH-087",
+        "name": "Martin Sung Jensen",
+        "gender": "M",
+        "country_code": "DEN",
+        "country": "Denmark",
+        "personal_best": "252m",
+        "announced_performance": "200m",
+        "pronunciation": "Martin Soong YEN-sen",
+        "notes": [
+          "Denmark's national record holder in both DYN at 252 metres and DYNB — that puts him world number 38 in the monofin and world number 70 in bi-fins.",
+          "A static best of seven minutes eight seconds confirms this is someone who is very comfortable sitting in the dark.",
+          "He also holds his own in no-fins — 154 metres, national number eleven.",
+          "Two gold medals, a silver, and a bronze — he collects hardware across every pool discipline he enters.",
+          "Most recently out at the Swedish National Pool Championships in March, so he arrives here sharp and race-ready.",
+          "Denmark's strongest pool athlete today — and one of the top thirty-eight in the world."
+        ],
+        "missing_data": true
+      }
+    ],
+    "transition": "Every heat, a different story. Let's see what this one brings."
+  }
+]
