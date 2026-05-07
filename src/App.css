@@ -15,10 +15,6 @@
   --dynb:      #26c6a0;
   --dyn:       #ff7043;
 
-  --silence:   #ef5350;
-  --calm:      #42a5f5;
-  --clear:     #66bb6a;
-
   --orange:    #ffb74d;
   --radius:    12px;
   --radius-sm: 8px;
@@ -41,14 +37,6 @@ body { background: var(--bg); color: var(--text); font-family: system-ui, -apple
 .header-title p  { font-size: 0.75rem; color: var(--text-dim); }
 .header-legend { display: flex; gap: 8px; flex-wrap: wrap; }
 
-/* ── Delivery cue badges ───────────────────────────────── */
-.cue {
-  font-size: 0.72rem; font-weight: 700; padding: 3px 8px;
-  border-radius: 20px; white-space: nowrap;
-}
-.cue.silence { color: var(--silence); background: rgba(239,83,80,.12); border: 1px solid rgba(239,83,80,.3); }
-.cue.calm    { color: var(--calm);    background: rgba(66,165,245,.12); border: 1px solid rgba(66,165,245,.3); }
-.cue.clear   { color: var(--clear);   background: rgba(102,187,106,.12);border: 1px solid rgba(102,187,106,.3); }
 
 /* ── Filter bar ────────────────────────────────────────── */
 .filter-bar {
@@ -167,15 +155,25 @@ body { background: var(--bg); color: var(--text); font-family: system-ui, -apple
 }
 .no-notes { font-size: 0.85rem; color: var(--text-mute); font-style: italic; }
 
-/* ── Cues + transition footer ──────────────────────────── */
-.heat-cues {
-  display: flex; flex-wrap: wrap; gap: 8px;
-  padding: 12px 4px 8px;
-  border-top: 1px solid var(--border); margin-top: 8px;
+/* ── Athlete separator ─────────────────────────────────── */
+.athlete-separator {
+  height: 1px; background: var(--border); margin: 14px 4px;
 }
-.heat-cues .cue { font-size: 0.78rem; }
-.heat-cues .cue em { font-weight: 400; font-style: normal; color: inherit; opacity: .75; }
 
+/* ── Repeat athlete ────────────────────────────────────── */
+.repeat-badge {
+  font-size: 0.68rem; font-weight: 700; padding: 2px 7px;
+  border-radius: 20px; color: var(--text-dim);
+  background: var(--surface2); border: 1px solid var(--border);
+  white-space: nowrap;
+}
+.repeat-line {
+  font-size: 0.92rem; line-height: 1.6; color: var(--text-dim);
+  font-style: italic; padding-left: 14px;
+  border-left: 2px solid var(--border);
+}
+
+/* ── Transition footer ─────────────────────────────────── */
 .heat-transition {
   display: flex; align-items: flex-start; gap: 8px;
   font-size: 0.82rem; color: var(--text-dim); font-style: italic;

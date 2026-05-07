@@ -9,9 +9,21 @@ export default function App() {
   const [disc, setDisc] = useState('ALL')
   const [expandedId, setExpandedId] = useState(null)
 
+  const heatsWithRepeat = useMemo(() => {
+    const seen = {}
+    return heatsData.map(heat => ({
+      ...heat,
+      athletes: heat.athletes.map(a => {
+        const prev = seen[a.athlete_id]
+        if (!prev) seen[a.athlete_id] = { disc: heat.discipline }
+        return { ...a, prevDisc: prev ? prev.disc : null }
+      })
+    }))
+  }, [])
+
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase()
-    return heatsData.filter(heat => {
+    return heatsWithRepeat.filter(heat => {
       if (disc !== 'ALL' && heat.discipline !== disc) return false
       if (!q) return true
       if (String(heat.heat_number) === q) return true
@@ -22,7 +34,7 @@ export default function App() {
         a.country_code.toLowerCase().includes(q)
       )
     })
-  }, [search, disc])
+  }, [search, disc, heatsWithRepeat])
 
   return (
     <div className="app">
@@ -33,11 +45,6 @@ export default function App() {
             <h1>Eindhoven 2026</h1>
             <p>Live Commentary Guide</p>
           </div>
-        </div>
-        <div className="header-legend">
-          <span className="cue silence">● SILENCE</span>
-          <span className="cue calm">● CALM</span>
-          <span className="cue clear">● CLEAR</span>
         </div>
       </header>
 

@@ -30,21 +30,22 @@ export default function HeatCard({ heat, expanded, onToggle }) {
       {expanded && (
         <div className="heat-body">
           <div className="athletes-grid">
-            {heat.athletes.map(a => (
-              <AthleteCard key={a.athlete_id} athlete={a} discipline={heat.discipline} />
+            {heat.athletes.map((a, i) => (
+              <AthleteCard
+                key={a.athlete_id}
+                athlete={a}
+                discipline={heat.discipline}
+                showSeparator={i > 0}
+              />
             ))}
           </div>
 
-          <div className="heat-cues">
-            <span className="cue silence">● SILENCE <em>official top — stop talking</em></span>
-            <span className="cue calm">● CALM <em>athletes in water — speak softly</em></span>
-            <span className="cue clear">● CLEAR <em>white card → say "CLEAR!"</em></span>
-          </div>
-
-          <div className="heat-transition">
-            <span className="transition-arrow">→</span>
-            <em>{heat.transition}</em>
-          </div>
+          {heat.transition && (
+            <div className="heat-transition">
+              <span className="transition-arrow">→</span>
+              <em>{heat.transition}</em>
+            </div>
+          )}
         </div>
       )}
     </div>
